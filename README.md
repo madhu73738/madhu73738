@@ -2,30 +2,31 @@
 
 <p align="center">
    <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-    <img align="center" height="150" width="150"src="https://infinitelyteaching.files.wordpress.com/2019/09/download-11.gif"/>
+   <img height="0" width="0" src="">
+        <img align="center" height="200" width="200"src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif"/>
       <img align="center" height="150" width="150"src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"/>
    <!-- <img align="center" height="150" width="150"src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/> -->
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   <img height="0" width="0" src="">
    </a>
 </p>
-<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hii there 👋, It's Madhu Hazra, I'm a Competitive Programmer</h1>
+<h1>  Heya Peeps! It's Madhu Hazra, I'm a Learning Enthusiast</h1>
  
-   I am a B.Tech undergrad at Kalinga Institute of Industrial Technology, Bhubaneswar pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
- 
+   I am a B.Tech Sophomore at Kalinga Institute of Industrial Technology, Bhubaneswar pursuing Computer Science and Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
+  
    ## About Me (Intro) ~
+   
    <p align="center">
   <p align="left">
    <a>
- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='5"'>
+ <img align='right' src='https://media.tenor.com/Z5ZrV0SFlGIAAAAC/cute-cat.gif'>
 
-   -  Skills: C++/ C/ Kotlin/ Python
+   -  Skills: Python / C++ / C / Kotlin / Dart 
    - 🔭 I’m currently working on Android Development and practicing DSA. 
-   - 🌱 I’m currently learning Android Dev.
+   - 🌱 I’m currently learning App Devlopment.
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
-   - 😄 Pronouns: she /her. 
-   - ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; #Dominica .
+   - 😄 Pronouns: She / Her. 
+   - ⚡ Fun fact: You are actually Stalking my profile XD
  
    </a>
  <p align="center">
@@ -38,9 +39,8 @@
   
   </br>
 
-<h2 align='center'><i><a href="https://github.com/Mugdha-Hazra/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/Mugdha-Hazra/github-readme-activity-graph#gh-light-mode-only">
+
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mugdha-Hazra&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 <a href="https://github.com/Mugdha-Hazra/github-readme-activity-graph#gh-dark-mode-only">
@@ -58,31 +58,31 @@
    ![](https://activity-graph.herokuapp.com/graph?username=Mugdha-Hazra&theme=dracula&hide_border=true&area=true)
    <br/>
    
-   ## 📲 Connect with me on social media 
+   ## 📲 Find me on social media 
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
  
  <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mugdha-hazra-602347200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mugdha Hazra" height="30" width="40" /></a>
-<a href="https://leetcode.com/mugdha2hazra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mugdha2hazra" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mugdha4455/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mugdha4455" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/madhu-h-98592b252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhu Hazra" height="30" width="40" /></a>
+<a href="https://leetcode.com/madhu13180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhu13180" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/madhu1meon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="madhu1meon" height="30" width="40" /></a>
 </p>
  
  <img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
    <!--<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
-<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
+<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's connect!  </p></h3>
 <p align="left">
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mugdha2hazra) 
+ 
 
 <p align="left">
    <!-- ---------------------------------------------------------------- -->
-    <a target="_blank"href="https://github.com/Mugdha-Hazra"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a href="https://twitter.com/HazraMugdha"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a target="_blank"href="https://www.linkedin.com/in/mugdha-hazra-602347200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a target="_blank"href="https://www.facebook.com/mugdha.hazra.5/"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-    <a target="_blank"href="https://www.instagram.com/mugdha4455/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-    <a href="https://medium.com/@mugdha2hazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugdha2hazra" height="30" width="40" /></a>
+    <a target="_blank"href="https://github.com/madhu73738"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   <a href="https://twitter.com/MadhuHazra8"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   <a target="_blank"href="https://www.linkedin.com/in/madhu-h-98592b252"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   <a target="_blank"href="https://www.facebook.com/profile.php?id=100082508066870"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    <a target="_blank"href="https://www.instagram.com/honey_dew1224/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    
    <!-- ---------------------------------------------------------------- -->
 </p>
 
@@ -93,7 +93,7 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="Flutter" width="40" height="40"/> <img 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="Dart" width="40" height="40"/> <img 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="36" height="36"/>  <img 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="36" height="36"/ > <img 
   src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  <img                                                     src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> <img 
   src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
    <img src="https://img.icons8.com/color/48/000000/python.png"/>
@@ -110,15 +110,6 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
 </div>
 
-<h2 align="center">My Contribution Streak !! :fire:</h2>
-
-<p align="center">
-   <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true"/>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
-   </a>
-</p>
 
 ## Some facts 😄:
 
@@ -139,60 +130,27 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 </table>
 <br/>
 
-## 💻 My Badges 🥇
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='45' height='45'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='45' height='45'></a> 
-<!--<img width="30%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mugdha-Hazra&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-
-## 💻 My Swagss And Goodies 🎁⭐
-
-|<img src="https://user-images.githubusercontent.com/63424869/233615039-c59a0ebe-6547-4843-ad23-81729a7f66c4.png" width="350" height ="365">|![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)
 
 
-<img align="right" width="200" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
-<!-- ![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)   -->
-
-
-<!-- [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra)  -->
-<!-- <h2 align="center">My Contribution Streak !! :fire:</h2>  -->
-
-<!-- <p align="center">
-  <a>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
-  </a>
-</p> -->
-<!-- <p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
-</p> -->
 
 ![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 
-<img align="right" height="0" width="0" src="https://customsitesmedia.usc.edu/wp-content/uploads/sites/308/2016/10/17131545/tumblr_o7jfjpvlny1tbhzhno1_500.gif" width="930"/>
+<img align="right" height="0" width="0" src="https://ih1.redbubble.net/image.1938009418.3391/poster,504x498,f8f8f8-pad,600x600,f8f8f8.u1.jpg" width="930"/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
+
 <!--
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra" alt="Mugdha-Hazra" /> </p>-->
-<p>Do you know why your Android app screen is lagging while using it, Here we found out the reason and resolution to fix those issues at the client-end.
-https://medium.com/@mugdha2hazra/521c74a964da
-Author By 
-@mugdha.hazra</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=madhu73738" alt="madhu73738" /> </p>-->
+
 
 <table>
  <!-- <tr>
     <td><h3>You are Visitor No.: </h3></td>
-    <td><img src="https://profile-counter.glitch.me/Mugdha-Hazra/count.svg" alt="vistor count" height="45" /></td>
+    <td><img src="https://profile-counter.glitch.me/madhu73738/count.svg" alt="vistor count" height="45" /></td>
   </tr> -->
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
  <pre>
