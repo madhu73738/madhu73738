@@ -54,8 +54,8 @@
   
   ## 💻 My contribution Graph
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mugdha-Hazra&theme=vue)
-   ![](https://activity-graph.herokuapp.com/graph?username=Mugdha-Hazra&theme=dracula&hide_border=true&area=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhu73738&theme=vue)
+   ![](https://activity-graph.herokuapp.com/graph?username=madhu73738&theme=dracula&hide_border=true&area=true)
    <br/>
    
    ## 📲 Find me on social media 
@@ -119,13 +119,13 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
          <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
       </td>
       <td rowspan=2>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdha-Hazra&theme=dark" align="center"/> 
-<!--          <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true&theme=gotham" /></td> -->
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu73738&theme=dark" align="center"/> 
+<!--          <td><img src="https://github-readme-stats.vercel.app/api?username=madhu73738&show_icons=true&theme=gotham" /></td> -->
       </td>
    </tr>
 <!--    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true&theme=gotham" /></td> -->
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&count_private=true&theme=dark&show_icons=true" align="center"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=madhu73738&show_icons=true&theme=gotham" /></td> -->
+      <td><img src="https://github-readme-stats.vercel.app/api?username=madhu73738&count_private=true&theme=dark&show_icons=true" align="center"/></td>
    </tr>
 </table>
 <br/>
@@ -133,12 +133,12 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 
 
 
-![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  
+![Profile views](https://gpvc.arturio.dev/madhu73738)  
 
 
 ### ✍️ Random Quote
 
-<img align="right" height="0" width="0" src="https://ih1.redbubble.net/image.1938009418.3391/poster,504x498,f8f8f8-pad,600x600,f8f8f8.u1.jpg" width="930"/>
+<img align="right" height="200" width="0" src="https://ih1.redbubble.net/image.1938009418.3391/poster,504x498,f8f8f8-pad,600x600,f8f8f8.u1.jpg" width="930"/>
 
 
 
@@ -208,15 +208,13 @@ for dino game
 
 <div align="center">
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://i.pinimg.com/originals/be/18/7b/be187bf47627fee2a929be791e6dd52a.jpg" width="512px"/>
 
-[![@mugdha's Holopin board](https://holopin.me/mugdha)](https://holopin.io/@mugdha)
 
-### Show some ❤️ by starring some of the repositories!
+
 
 -->
 ### 😂 Random Dev Meme Guysss now Some MeMe timeee (Do Laugh Out Loud XD)!!!
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img  width="512px" src="https://random-memer.herokuapp.com"/>
 
-[![@mugdha's Holopin board](https://holopin.me/mugdha)](https://holopin.io/@mugdha)
-
+]
