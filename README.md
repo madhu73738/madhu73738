@@ -93,9 +93,9 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg"
 <table>
    <tr>
       <td>
-         <img  height="300" width="270" src="https://spotify-github-profile.vercel.app/api/view?uid=31hzibx275tnfirfgpw4h4n7giyy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" align="right"/>
-         <img height="300" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu73738&theme=dark" align="right"/> 
-<!--        <img height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=madhu73738&show_icons=true&theme=gotham" />
+         <img  height="260" width="220" src="https://spotify-github-profile.vercel.app/api/view?uid=31hzibx275tnfirfgpw4h4n7giyy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" align="right"/>
+         <img height="280" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu73738&theme=dark" align="right"/> 
+<!--        <img height="250" width="250" src="https://github-readme-stats.vercel.app/api?username=madhu73738&show_icons=true&theme=gotham" />
       </td>
       <td rowspan=2>
           </td> -->
