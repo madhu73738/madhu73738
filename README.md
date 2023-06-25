@@ -4,7 +4,8 @@
    <a>
    <img height="0" width="0" src="">
         <img align="center" height="200" width="200"src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif"/>
-      <img align="center" height="150" width="150"src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"/>
+      <img align="right"  height="200" width="200"src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif"/>
+      <img align="left"  height="200" width="200"src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif"/>
    <!-- <img align="center" height="150" width="150"src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/> -->
    <img height="0" width="0" src="">
    </a>
@@ -18,7 +19,7 @@
    <p align="center">
   <p align="left">
    <a>
- <img align='right' src='https://media.tenor.com/Z5ZrV0SFlGIAAAAC/cute-cat.gif'>
+ <img align='right' height="250" width="250" src='https://media.tenor.com/Z5ZrV0SFlGIAAAAC/cute-cat.gif'>
 
    -  Skills: Python / C++ / C / Kotlin / Dart 
    - 🔭 I’m currently working on Android Development and practicing DSA. 
@@ -27,36 +28,33 @@
    - 💬 Ask me about Problem-solving and DSA. 
    - 😄 Pronouns: She / Her. 
    - ⚡ Fun fact: You are actually Stalking my profile XD
- 
-   </a>
- <p align="center">
-   <a>
-<!-- <img align="center" height="150" width="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/> -->
-<!-- <img align="center" height="150" width="150" align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
- </a>
- </p>
- </p>
-  
-  </br>
 
-<p align="center">
+<br>
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mugdha-Hazra&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/Mugdha-Hazra/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mugdha-Hazra&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
-
-</br>
+## 💻 Tools and languages I work with
+<img align="left" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
+<img align="right" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230" />
+<div align items="right">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="Flutter" width="40" height="40"/> <img 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="Dart" width="40" height="40"/> <img 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> <img 
+  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
+   <img src="https://img.icons8.com/color/48/000000/python.png"/>
+   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   
+   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+   
+   <img src="https://img.icons8.com/color/48/000000/git.png"/>
+   <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+   <img src="https://img.icons8.com/ios-filled/50/000000/console.png"/>
   
-   <br/>
-  
-  ## 💻 My contribution Graph
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhu73738&theme=vue)
-   ![](https://activity-graph.herokuapp.com/graph?username=madhu73738&theme=dracula&hide_border=true&area=true)
-   <br/>
+</div>
+<br>
+<br>
    
    ## 📲 Find me on social media 
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
@@ -68,8 +66,8 @@
 <a href="https://auth.geeksforgeeks.org/user/madhu1meon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="madhu1meon" height="30" width="40" /></a>
 </p>
  
- <img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
-   <!--<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
+ <img align='right' src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" width="330">
+   <!--<img align='right' src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" width="330"> -->
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's connect!  </p></h3>
 <p align="left">
 
@@ -86,46 +84,26 @@
    <!-- ---------------------------------------------------------------- -->
 </p>
 
-## 💻 Tools and languages I work with
-<img align="left" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
-<img align="right" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
-<div align items="left">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="Flutter" width="40" height="40"/> <img 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="Dart" width="40" height="40"/> <img 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="36" height="36"/ > <img 
-  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  <img                                                     src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> <img 
-  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
-   <img src="https://img.icons8.com/color/48/000000/python.png"/>
-   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-   <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-   <img src="https://img.icons8.com/ios-filled/50/000000/console.png"/>
-   <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
-</div>
-
-
+## 💻 My contribution Graph
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhu73738&theme=vue)
+   ![](https://activity-graph.herokuapp.com/graph?username=madhu73738&theme=dracula&hide_border=true&area=true)
+ 
 ## Some facts 😄:
 
 <table>
    <tr>
       <td>
-         <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
+         <img  height="300" width="270" src="https://spotify-github-profile.vercel.app/api/view?uid=31hzibx275tnfirfgpw4h4n7giyy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" align="right"/>
+         <img height="300" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu73738&theme=dark" align="right"/> 
+<!--        <img height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=madhu73738&show_icons=true&theme=gotham" />
       </td>
       <td rowspan=2>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu73738&theme=dark" align="center"/> 
-<!--          <td><img src="https://github-readme-stats.vercel.app/api?username=madhu73738&show_icons=true&theme=gotham" /></td> -->
+          </td> -->
       </td>
    </tr>
-<!--    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=madhu73738&show_icons=true&theme=gotham" /></td> -->
-      <td><img src="https://github-readme-stats.vercel.app/api?username=madhu73738&count_private=true&theme=dark&show_icons=true" align="center"/></td>
+   <!--    <tr>
+         <td><img src="https://github-readme-stats.vercel.app/api?username=madhu73738&show_icons=true&theme=gotham" /></td> -->
+      <td><img height="300" width="600" src="https://github-readme-stats.vercel.app/api?username=madhu73738&count_private=true&theme=dark&show_icons=true" align="center"/></td>
    </tr>
 </table>
 <br/>
@@ -133,10 +111,14 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 
 
 
-![Profile views](https://gpvc.arturio.dev/madhu73738)  
 
 
-### ✍️ Random Quote
+### #----- Meme Time ----- 
+<img align="center" height="500" width="500" src="https://ih1.redbubble.net/image.1922940985.3626/aps,504x498,medium,transparent-pad,600x600,f8f8f8.jpg"/>
+
+
+
+### ##------- RANDOMS --------
 
 <img align="right" height="200" width="0" src="https://ih1.redbubble.net/image.1938009418.3391/poster,504x498,f8f8f8-pad,600x600,f8f8f8.u1.jpg" width="930"/>
 
@@ -155,7 +137,7 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
  <pre>
 ----------------------------------------
-<span># Byee Byee Have a nice day!!</span>
+<span># Good Day Folks!!</span>
 ----------------------------------------
 ----------------------------------------
     ~`\   ^__^
@@ -167,54 +149,9 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 </pre>
 </table>
 <!-- adding goru(cow)(handmade cow)-->
-<!--
-For adding portfolio.
-
-### Visit my detailed [profile](https://drive.google.com/file/d/1_ks4MSCqJwOaIYi-wz1g-Bv0NB2By_7y/view?usp=sharing)
-for dino game
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="48.5%" height="230" >
--->
-<p align="Center">
- <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="60" /><strong>Bye-Bye</strong><img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="70" /> 
-</p>
-<br>
-<br>
-  
-
-<!--
-<h3 align="Center">Recent Repos:</h3>  
-<br />
-
-<p  align="center">
-  <a href="https://github.com/swagatobag2000/digit-recognition-mobileapp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=digit-recognition-mobileapp&theme=dark" />
-  </a>
-  <a href="https://github.com/swagatobag2000/digit-recognition-webapp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=digit-recognition-webapp&theme=dark" />
-  </a>
-  <a href="https://github.com/swagatobag2000/AI-Enabled-FinTech-B2B-Order-Management-Application_MINOR">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=AI-Enabled-FinTech-B2B-Order-Management-Application_MINOR&theme=dark" />
-  </a>
-  <a href="https://github.com/swagatobag2000/sb_utility_library">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=sb_utility_library&theme=dark" />
-  </a>
-  <a href="https://github.com/swagatobag2000/python-telegram-bot">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=python-telegram-bot&theme=dark&" />
-  </a>
-  <a href="https://github.com/swagatobag2000/Tic-Tac-Toe-Game">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=Tic-Tac-Toe-Game&theme=dark&" />
-  </a>
-</p>
-
-<div align="center">
-### 😂 Random Dev Meme
-<img src="https://i.pinimg.com/originals/be/18/7b/be187bf47627fee2a929be791e6dd52a.jpg" width="512px"/>
 
 
 
 
--->
-### 😂 Random Dev Meme Guysss now Some MeMe timeee (Do Laugh Out Loud XD)!!!
-<img  width="512px" src="https://random-memer.herokuapp.com"/>
 
-]
+
