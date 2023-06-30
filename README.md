@@ -125,7 +125,6 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg"
 <img align="center" height="500" width="500" src="https://ih1.redbubble.net/image.1922940985.3626/aps,504x498,medium,transparent-pad,600x600,f8f8f8.jpg"/>
 
 
-
 ### ##------- RANDOMS --------
 
 <img align="right" height="200" width="0" src="https://ih1.redbubble.net/image.1938009418.3391/poster,504x498,f8f8f8-pad,600x600,f8f8f8.u1.jpg" width="930"/>
@@ -157,8 +156,12 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg"
 </pre>
 </table>
 <!-- adding goru(cow)(handmade cow)-->
+ 
+ 
+ ### #------- HIT COUNTER --------
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhu73738&label=Profile%20views&color=8B0000&style=flat" alt="Madhu" /> </p>
+                                                                               
 
 
 
